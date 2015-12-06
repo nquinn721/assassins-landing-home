@@ -10,7 +10,7 @@
 			united yeti
 		-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/slate/bootstrap.min.css"/>
-	<link rel="stylesheet" href="assassins-landing-home/css/main.css">
+	<link rel="stylesheet" href="assassins-landing-home/css/main.css"> 
 </head>
 <body>
 <?php include_once('partials/nav.php');?>
