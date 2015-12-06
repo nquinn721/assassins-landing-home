@@ -10,7 +10,7 @@
 			united yeti
 		-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/slate/bootstrap.min.css"/>
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
 <?php include_once('partials/nav.php');?>
@@ -45,6 +45,6 @@
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>	
-<script src="js/main.js"></script>
+<script src="/js/main.js"></script>
 </body>
 </html>
