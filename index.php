@@ -23,7 +23,7 @@
 	</div>
 	<div class="col-md-4 sidebar">
 		<div class="main-img">
-			<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12279034_10154350844359606_380697351905458385_n.jpg?oh=a09b9fcfe00fc1ac5e34c6838ec40b27&oe=56DA8F10" alt="">
+			<img src="img/me.jpg" alt="">
 		</div>
 		<br>
 		<p>
