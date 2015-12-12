@@ -17,7 +17,7 @@
 <div class="container main-container">
 	<div class="jumbotron">
 		<h1>Welcome to Assassins Landing!</h1>
-		<div class="btn btn-primary">Play Game</div>
+		<div class="btn btn-primary game">Play Game</div>
 	</div>
 	<div class="col-md-8 main-content">
 	</div>
