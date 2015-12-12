@@ -1,3 +1,3 @@
 $('.game').on('click', function () {
-	window.location = window.location + ":3000";
+	window.location = window.location.hostname + ":3000";
 });
